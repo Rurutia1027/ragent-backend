@@ -201,6 +201,10 @@ rustfs:
   access-key-id: rustfsadmin
   secret-access-key: rustfsadmin
 
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+
 sa-token:
   token-name: Authorization
   timeout: 2592000
