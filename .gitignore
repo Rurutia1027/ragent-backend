@@ -2,3 +2,6 @@ docs/
 
 # Maven build output
 target/
+
+# IntelliJ
+.idea/
